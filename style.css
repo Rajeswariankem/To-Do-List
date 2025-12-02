@@ -266,6 +266,10 @@ h1::after {
     margin-top: 25px;
   }
 
+  #task-list {
+    margin-bottom: 25px;
+  }
+
   .btns button {
     width: 100%;
     max-width: 140px;
