@@ -1,21 +1,24 @@
 📌 To-Do Task Manager
 
+![App Screenshot](images/app.png)
+
 A modern, responsive, and feature-rich To-Do application built using HTML, CSS, and JavaScript.
 This app helps users manage daily tasks with an intuitive UI, smooth animations, and smart task controls.
 
 🌟 Features
 
-✨ Add new tasks easily
-✔ Mark tasks as completed
-↺ Undo completed tasks
-🗑 Delete selected tasks
-🔄 Reset entire list instantly
-📦 Auto-save tasks using LocalStorage
-🚫 Prevents duplicate task entries
-⌨ Press Enter to add tasks quickly
-📱 Fully responsive for all devices
-🎨 Neon-themed modern UI design
-🔍 Hover effects + interactive visuals
+✨ Add new tasks easily  
+✔ Mark tasks as completed  
+↺ Undo completed tasks  
+🗑 Delete selected tasks  
+🔄 Reset entire list instantly  
+📦 Auto-save tasks using LocalStorage  
+🚫 Prevents duplicate task entries  
+⌨ Press Enter to add tasks quickly  
+📱 Fully responsive for all devices  
+🎨 Neon-themed modern UI design  
+🔍 Hover effects + interactive visuals  
+
 
 🧠 How It Works
 
