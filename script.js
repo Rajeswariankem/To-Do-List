@@ -92,6 +92,8 @@ com.addEventListener("click", function () {
       saveTasks();
       saveStats();
       // checkbox.disabled = true;
+    } else {
+      alert("Select a task to complete!");
     }
   });
 });
@@ -133,6 +135,8 @@ del.addEventListener("click", function () {
       deleted.textContent = deletedcount;
       saveTasks();
       saveStats();
+    } else {
+      alert("Select a task to delete!");
     }
   });
 });
