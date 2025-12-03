@@ -99,7 +99,7 @@ com.addEventListener("click", function () {
     }
   });
   if (!found) {
-    alert("Select a task to complete!");
+    alert("Select a task to complete!!");
   } else {
     saveTasks();
     saveStats();
